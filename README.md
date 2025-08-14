@@ -191,7 +191,7 @@ This GitHub repository will remain **accessible at all times** for evaluation pu
 ## Contact
 
 Rahul Kumar
-rahulkr221703@gmail.com
-https://github.com/rahulkr1722
+aarshsthakur@gmail.com
+https://github.com/AstNos
 
 Thank you for evaluating my project!
