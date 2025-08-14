@@ -190,8 +190,8 @@ This GitHub repository will remain **accessible at all times** for evaluation pu
 
 ## Contact
 
-Rahul Kumar
-aarshsthakur@gmail.com
-https://github.com/AstNos
+- Aarsh Singh Thakur
+- aarshsthakur@gmail.com
+- https://github.com/AstNos
 
 Thank you for evaluating my project!
